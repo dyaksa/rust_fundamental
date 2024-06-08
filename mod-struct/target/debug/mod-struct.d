@@ -1,0 +1,1 @@
+/Users/macbookair/Dev/fundamental/rust/mod-struct/target/debug/mod-struct: /Users/macbookair/Dev/fundamental/rust/mod-struct/src/main.rs /Users/macbookair/Dev/fundamental/rust/mod-struct/src/models/color.rs /Users/macbookair/Dev/fundamental/rust/mod-struct/src/models/game.rs /Users/macbookair/Dev/fundamental/rust/mod-struct/src/models.rs
