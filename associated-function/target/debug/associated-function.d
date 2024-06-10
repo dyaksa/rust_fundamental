@@ -1,0 +1,1 @@
+/Users/macbookair/Dev/fundamental/rust/associated-function/target/debug/associated-function: /Users/macbookair/Dev/fundamental/rust/associated-function/src/lego.rs /Users/macbookair/Dev/fundamental/rust/associated-function/src/main.rs /Users/macbookair/Dev/fundamental/rust/associated-function/src/model.rs
