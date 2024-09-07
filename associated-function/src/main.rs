@@ -1,3 +1,5 @@
+use lego::LegoSet;
+
 mod lego;
 mod model;
 
@@ -8,6 +10,8 @@ fn main() {
         String::from("offroad"), 
         25
     );
+
+    println!("{:?}", LegoSet::what_is_lego());
 
     println!("{:#?}", extreme_offroader);
     println!("The Lego set code {} {} is a {} set for ages {} and up.", extreme_offroader.code, extreme_offroader.name, extreme_offroader.category, extreme_offroader.age_minimum);
