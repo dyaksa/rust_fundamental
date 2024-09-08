@@ -1,0 +1,1 @@
+/Users/macbookair/Dev/fundamental/rust/traits-advanced-2/target/debug/traits-advanced-2: /Users/macbookair/Dev/fundamental/rust/traits-advanced-2/src/circle.rs /Users/macbookair/Dev/fundamental/rust/traits-advanced-2/src/main.rs /Users/macbookair/Dev/fundamental/rust/traits-advanced-2/src/shape.rs /Users/macbookair/Dev/fundamental/rust/traits-advanced-2/src/square.rs
